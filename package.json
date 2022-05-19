@@ -1,0 +1,20 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "student name and id",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvirdi1/Web322-assignment-1"
+  },
+  "keywords": [],
+  "author": "Divnoor Virdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://https://github.com/dvirdi1/Web322-assignment-1/issues"
+  },
+  "homepage": "https://https://github.com/dvirdi1/Web322-assignment-1#readme"
+}
